@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "anomalies_found": 2,
+    "data": [
+        {
+            "id": "anomaly-auto-1",
+            "type": "Perubahan Terdeteksi",
+            "confidence": 95.0,
+            "bbox": {
+                "top": "67.5%",
+                "left": "64.38%",
+                "width": "21.38%",
+                "height": "15.17%"
+            }
+        },
+        {
+            "id": "anomaly-auto-2",
+            "type": "Perubahan Terdeteksi",
+            "confidence": 95.0,
+            "bbox": {
+                "top": "40.67%",
+                "left": "36.75%",
+                "width": "20.38%",
+                "height": "18.83%"
+            }
+        }
+    ]
+}
